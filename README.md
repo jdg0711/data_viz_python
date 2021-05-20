@@ -1,4 +1,4 @@
-# Introduction to Data Visualization in Python
+# Data Visualization in Python
 ## A DataCamp project
 **Objective:** Extends existing Python skills to provide a stronger foundation in data visualization in Python. Obtain a broader coverage of the Matplotlib library and an overview of seaborn, a package for statistical graphics. Topics covered include:
 - customizing graphics
