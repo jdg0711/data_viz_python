@@ -6,7 +6,7 @@
 - statistical graphics (like visualizing distributions and regressions)
 - working with time series and image data
 
-![undergrad enrollment graph](https://github.com/jdg0711/data_viz_python/blob/main/images/undergrad_enrollment.png)
+![moving standard deviations plot](https://github.com/jdg0711/data_viz_python/blob/main/images/moving_std_dev.png)
 
 Programming languages and libraries used: 
 - python
