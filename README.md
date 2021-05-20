@@ -17,4 +17,4 @@ Programming languages and libraries used:
 
 ![joint distribution plot](https://github.com/jdg0711/data_viz_python/blob/main/images/joint_dist_plot.png)
 
-It may be easier to view the code by pasting the url for the .ipynb files into [nbviewer](https://nbviewer.jupyter.org/).
+It may be easier to view the code by pasting the url for the .ipynb files into [nbviewer](https://nbviewer.jupyter.org/){:target="_blank"}.
