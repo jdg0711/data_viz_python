@@ -17,4 +17,9 @@ Programming languages and libraries used:
 
 ![joint distribution plot](https://github.com/jdg0711/data_viz_python/blob/main/images/joint_dist_plot.png)
 
-It may be easier to view the code by pasting the url for the above .ipynb files into [nbviewer](https://nbviewer.jupyter.org/)
+View the code for each type of visualization below:
+
+1. Customizing plots [CTRL + click here](https://nbviewer.org/github/jdgimlin/visualizing_data_python/blob/main/1_Customizing_Plots.ipynb)
+2. Plotting 2D arrays [CTRL + click here](https://nbviewer.org/github/jdgimlin/visualizing_data_python/blob/main/2_Plotting_2D_Arrays.ipynb)
+3. Statistical plots [CTRL + click here](https://nbviewer.org/github/jdgimlin/visualizing_data_python/blob/main/3_Statistical_plots.ipynb)
+4. Time series and image plots [CTRL + click here](https://nbviewer.org/github/jdgimlin/visualizing_data_python/blob/main/4_Analyzing_time_series_and_images.ipynb)
